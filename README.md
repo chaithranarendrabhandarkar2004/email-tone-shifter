@@ -160,4 +160,14 @@ GitHub: [@chaithranarendrabhandarkar2004](https://github.com/chaithranarendrabha
 
 ---
 
+## 📸 Project Screenshots
+
+### 🏠 Home Dashboard
+![Email Tone Shifter Home](Home1.png)
+
+### ✉️ Email Transformation
+![Email Tone Shifter Result](transformation.png).
+
+---
+
 ⭐ If you find this project useful, consider giving the repository a star!
